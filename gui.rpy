@@ -11,8 +11,6 @@ init offset = -2
 init python:
     gui.init(1920, 1080)
 
-## Enable checks for invalid or unstable properties in screens or transforms
-define config.check_conflicting_properties = True
 
 
 ################################################################################
@@ -25,51 +23,54 @@ define config.check_conflicting_properties = True
 ## The colors of text in the interface.
 
 ## An accent color used throughout the interface to label and highlight text.
-define gui.accent_color = '#99ccff'
+define gui.accent_color = u'#484271'
 
 ## The color used for a text button when it is neither selected nor hovered.
-define gui.idle_color = '#888888'
+define gui.idle_color = u'#484271'
 
 ## The small color is used for small text, which needs to be brighter/darker to
 ## achieve the same effect.
-define gui.idle_small_color = '#aaaaaa'
+define gui.idle_small_color = u'#888888'
 
 ## The color that is used for buttons and bars that are hovered.
-define gui.hover_color = '#c1e0ff'
+define gui.hover_color = u'#fff'
 
 ## The color used for a text button when it is selected but not focused. A
 ## button is selected if it is the current screen or preference value.
-define gui.selected_color = '#ffffff'
+define gui.selected_color = u'#555555'
 
 ## The color used for a text button when it cannot be selected.
-define gui.insensitive_color = '#8888887f'
+define gui.insensitive_color = u'#aaaaaa7f'
 
 ## Colors used for the portions of bars that are not filled in. These are not
 ## used directly, but are used when re-generating bar image files.
-define gui.muted_color = '#3d5166'
-define gui.hover_muted_color = '#5b7a99'
+define gui.muted_color = u'#66c1ff'
+define gui.hover_muted_color = u'#99d6ff'
 
 ## The colors used for dialogue and menu choice text.
-define gui.text_color = '#ffffff'
-define gui.interface_text_color = '#ffffff'
+define gui.text_color = u'#484271'
+define gui.interface_text_color = u'#484271'
 
 
 ## Fonts and Font Sizes ########################################################
 
 ## The font used for in-game text.
-define gui.text_font = "DejaVuSans.ttf"
+define gui.text_font = "gui/fonts/Nunito-Bold.ttf"
 
 ## The font used for character names.
-define gui.name_text_font = "DejaVuSans.ttf"
+define gui.name_text_font = "gui/fonts/Nunito-Bold.ttf"
 
 ## The font used for out-of-game text.
-define gui.interface_text_font = "DejaVuSans.ttf"
+define gui.interface_text_font = "gui/fonts/Nunito-Bold.ttf"
 
 ## The size of normal dialogue text.
-define gui.text_size = 33
+define gui.text_size = 25
 
 ## The size of character names.
-define gui.name_text_size = 45
+define gui.name_text_size = 24
+
+## The default color of character names.
+define gui.name_text_color = "#fff"
 
 ## The size of text in the game's user interface.
 define gui.interface_text_size = 33
@@ -101,22 +102,21 @@ define gui.textbox_height = 278
 
 ## The placement of the textbox vertically on the screen. 0.0 is the top, 0.5 is
 ## center, and 1.0 is the bottom.
-define gui.textbox_yalign = 1.0
-
+define gui.textbox_yalign = 0.95
 
 ## The placement of the speaking character's name, relative to the textbox.
 ## These can be a whole number of pixels from the left or top, or 0.5 to center.
-define gui.name_xpos = 360
-define gui.name_ypos = 0
+define gui.name_xpos = 740
+define gui.name_ypos = -45
 
 ## The horizontal alignment of the character's name. This can be 0.0 for left-
 ## aligned, 0.5 for centered, and 1.0 for right-aligned.
-define gui.name_xalign = 0.0
+define gui.name_xalign = 0.5
 
 ## The width, height, and borders of the box containing the character's name, or
 ## None to automatically size it.
-define gui.namebox_width = None
-define gui.namebox_height = None
+define gui.namebox_width = 307
+define gui.namebox_height = 48
 
 ## The borders of the box containing the character's name, in left, top, right,
 ## bottom order.
@@ -130,11 +130,11 @@ define gui.namebox_tile = False
 ## The placement of dialogue relative to the textbox. These can be a whole
 ## number of pixels relative to the left or top side of the textbox, or 0.5 to
 ## center.
-define gui.dialogue_xpos = 402
-define gui.dialogue_ypos = 75
+define gui.dialogue_xpos = 585
+define gui.dialogue_ypos = 45
 
 ## The maximum width of dialogue text, in pixels.
-define gui.dialogue_width = 1116
+define gui.dialogue_width = 720
 
 ## The horizontal alignment of the dialogue text. This can be 0.0 for left-
 ## aligned, 0.5 for centered, and 1.0 for right-aligned.
@@ -185,6 +185,7 @@ define gui.radio_button_borders = Borders(27, 6, 6, 6)
 define gui.check_button_borders = Borders(27, 6, 6, 6)
 
 define gui.confirm_button_text_xalign = 0.5
+define gui.confirm_button_text_size = 30
 
 define gui.page_button_borders = Borders(15, 6, 15, 6)
 
@@ -197,23 +198,24 @@ define gui.quick_button_text_selected_color = gui.accent_color
 ## For example, you can uncomment the following line to set the width of a
 ## navigation button.
 
-# define gui.navigation_button_width = 250
+define gui.navigation_button_text_color = "#484271"
+define gui.navigation_button_text_hover_color = "#fff"
 
 
 ## Choice Buttons ##############################################################
 ##
 ## Choice buttons are used in the in-game menus.
 
-define gui.choice_button_width = 1185
+define gui.choice_button_width = 1223
 define gui.choice_button_height = None
 define gui.choice_button_tile = False
-define gui.choice_button_borders = Borders(150, 8, 150, 8)
+define gui.choice_button_borders = Borders(65, 38, 65, 38)
 define gui.choice_button_text_font = gui.text_font
 define gui.choice_button_text_size = gui.text_size
 define gui.choice_button_text_xalign = 0.5
-define gui.choice_button_text_idle_color = '#888888'
+define gui.choice_button_text_idle_color = "#484271"
 define gui.choice_button_text_hover_color = "#ffffff"
-define gui.choice_button_text_insensitive_color = '#8888887f'
+define gui.choice_button_text_insensitive_color = "#444444"
 
 
 ## File Slot Buttons ###########################################################
@@ -223,18 +225,18 @@ define gui.choice_button_text_insensitive_color = '#8888887f'
 ## image files in gui/button, like the other kinds of buttons.
 
 ## The save slot button.
-define gui.slot_button_width = 414
-define gui.slot_button_height = 309
+define gui.slot_button_width = 362
+define gui.slot_button_height = 270
 define gui.slot_button_borders = Borders(15, 15, 15, 15)
 define gui.slot_button_text_size = 21
 define gui.slot_button_text_xalign = 0.5
 define gui.slot_button_text_idle_color = gui.idle_small_color
 define gui.slot_button_text_selected_idle_color = gui.selected_color
-define gui.slot_button_text_selected_hover_color = gui.hover_color
+define gui.slot_button_text_selected_hover_color = "#fff"
 
 ## The width and height of thumbnails used by the save slots.
-define config.thumbnail_width = 384
-define config.thumbnail_height = 216
+define config.thumbnail_width = 297
+define config.thumbnail_height = 167
 
 ## The number of columns and rows in the grid of save slots.
 define gui.file_slot_cols = 3
@@ -248,7 +250,7 @@ define gui.file_slot_rows = 2
 
 ## The position of the left side of the navigation buttons, relative to the left
 ## side of the screen.
-define gui.navigation_xpos = 60
+define gui.navigation_xpos = 100
 
 ## The vertical position of the skip indicator.
 define gui.skip_ypos = 15
@@ -260,7 +262,7 @@ define gui.notify_ypos = 68
 define gui.choice_spacing = 33
 
 ## Buttons in the navigation section of the main and game menus.
-define gui.navigation_spacing = 6
+define gui.navigation_spacing = -5
 
 ## Controls the amount of spacing between preferences.
 define gui.pref_spacing = 15
@@ -287,7 +289,7 @@ define gui.main_menu_text_xalign = 1.0
 define gui.frame_borders = Borders(6, 6, 6, 6)
 
 ## The frame that is used as part of the confirm screen.
-define gui.confirm_frame_borders = Borders(60, 60, 60, 60)
+define gui.confirm_frame_borders = Borders(175, 125, 175, 125)
 
 ## The frame that is used as part of the skip screen.
 define gui.skip_frame_borders = Borders(24, 8, 75, 8)
@@ -308,7 +310,7 @@ define gui.frame_tile = False
 
 ## The height of horizontal bars, scrollbars, and sliders. The width of vertical
 ## bars, scrollbars, and sliders.
-define gui.bar_size = 38
+define gui.bar_size = 18
 define gui.scrollbar_size = 18
 define gui.slider_size = 38
 
@@ -353,7 +355,7 @@ define gui.history_name_xalign = 1.0
 ## The position, width, and alignment of the dialogue text.
 define gui.history_text_xpos = 255
 define gui.history_text_ypos = 3
-define gui.history_text_width = 1110
+define gui.history_text_width = 900
 define gui.history_text_xalign = 0.0
 
 
@@ -400,7 +402,6 @@ define gui.nvl_thought_xalign = 0.0
 define gui.nvl_button_xpos = 675
 define gui.nvl_button_xalign = 0.0
 
-
 ## Localization ################################################################
 
 ## This controls where a line break is permitted. The default is suitable
@@ -418,15 +419,13 @@ init python:
 
     ## This increases the size of the quick buttons to make them easier to touch
     ## on tablets and phones.
-    @gui.variant
-    def touch():
+    if renpy.variant("touch"):
 
         gui.quick_button_borders = Borders(60, 21, 60, 0)
 
     ## This changes the size and spacing of various GUI elements to ensure they
     ## are easily visible on phones.
-    @gui.variant
-    def small():
+    if renpy.variant("small"):
 
         ## Font sizes.
         gui.text_size = 45
@@ -438,6 +437,7 @@ init python:
 
         ## Adjust the location of the textbox.
         gui.textbox_height = 360
+        
         gui.name_xpos = 120
         gui.dialogue_xpos = 135
         gui.dialogue_width = 1650
@@ -475,3 +475,6 @@ init python:
 
         gui.nvl_button_width = 1860
         gui.nvl_button_xpos = 30
+
+
+
