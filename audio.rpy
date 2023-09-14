@@ -1,0 +1,7 @@
+define audio.Rest = "game/audio/Time for Rest.ogg"
+define audio.moryTheme = "game/audio/mory_theme_v2.wav"
+define audio.anitaThoughts = "game/audio/anitas_thoughts.wav"
+define audio.eileanorScary = "game/audio/elleanor_is_scary.wav"
+define audio.eileanorTheme = "game/audio/elleanors_theme.wav"
+define audio.spook1 = "game/audio/general_spooky_track.wav"
+define audio.vivianMetal = "game/audio/vivians_metal.wav"
