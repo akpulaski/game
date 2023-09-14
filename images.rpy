@@ -8,3 +8,5 @@ image ear left = "left ear.png"
 image ear right = "right ear.png"
 image paws = "paws.png"
 image tail = "tail.png"
+
+image bg = "bg1.png" #a temporary background image

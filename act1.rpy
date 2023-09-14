@@ -4,6 +4,7 @@ default scene103_label104_menu = set()
 default scene104_choices2_menu = set()
 default scene105_choices2_menu = set()
 
+
 label scene_101:
     "Where did an old life end?"
 

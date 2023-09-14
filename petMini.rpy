@@ -23,6 +23,7 @@ screen petVoid:
         idle "ear right"
         xpos .507
         ypos .11 
+        action [Call("petCat")]
     imagebutton: 
         idle "paws"
         xpos .420
@@ -48,6 +49,6 @@ label petCat2:
 
 #very disliked paw, tail
 label petCat3: 
-    show void startled at catLock 
+    show void startled at catLoc 
     "Void really didn't like that."
     return
