@@ -43,6 +43,7 @@ label scene_101:
     "Help carrying my whole life up into this new apartment."
 
     ##[Creaking Door SFX]
+    play sound creakingDoor
 
     "But before I even reached my apartment for the first time, I came to a sudden stop as I heard one of the other doors down the hallway open with a loud creak."
     
@@ -282,6 +283,7 @@ label scene101_ending:
 label scene_102:
 
     ## [Anita is in her apartment, squaring away the last of her boxes to their proper places. SFX of a thump accompanies the onomatopoeia below.]
+    play sound movingBoxThump
 
     anita "Ah… that’s the last box I have to bring up. Ow, my arms…"
 
@@ -301,6 +303,7 @@ label scene_102:
     "I feel my foot catch on something and I stumble. Too late, the mug slips from my grasp and falls to the floor with a—"
 
     ## [Blackout screen indicating sudden flashback. SFX of glass shattering. Have SFX and blackouts happen at the same time?]
+    play sound cafeGlassBreak
 
     cafe_waiter "I’ve got it, miss! Were you hurt any… where…?"
 
@@ -372,6 +375,7 @@ label scene_102:
     "I tried to call the same number a dozen times, but he kept his silence. Everything after that was a painful blur of screaming and bawling."
 
     # [Scene change, back to Anita’s apartment. SFX of ticking clock]
+    play sound clockTic
 
     "I stare at the broken mug shattered to shards on the floor for maybe…minutes? Hours? I don’t know anymore. "
 
@@ -406,10 +410,13 @@ label scene_102:
     "Who am I kidding? Moving here changes nothing. It’s only a matter of time before I make a mistake and everyone here will—"
 
     ## [SFX of cat scratching door]
+    play sound catScratchDoor
 
     anita "Huh?"
 
     ## [SFX footsteps, then door opening]
+    play sound footstepsWood
+    play sound doorOpen
 
     anita "Err… A cat?"
 
@@ -442,6 +449,7 @@ label scene_102:
     anita "Void? Is that your name?"
 
     ##Cat Meowing SFX
+    play sound meow1
 
 
     void "Meow."
@@ -452,6 +460,7 @@ label scene_102:
     anita "I take it this means you’re lost, then?"
 
     ##Cat Meowing SFX
+    play sound meow2
 
     void "Meow."
 
@@ -468,6 +477,7 @@ label scene_102:
     anita "Do you live in this building with your owner?"
 
     ## Cat Meowing SFX	
+    play sound meow1 
 
     void "Meow"
 
@@ -486,12 +496,14 @@ label scene_102:
 
     anita "D-do you want me to come with you?"
     ## Cat Meowing SFX
+    play sound meow3
 
     void "Meow."
 
     anita "Oh, um, but what about my unpacking?"
 
     ## Irritated Cat SFX
+    play sound angryCat1
 
     "Void makes more of a weird grumbling noise, clearly showing  irritation at me."
 
@@ -527,10 +539,12 @@ label scene_103:
     "Please be right. With a deep breath and a shaky hand, I knock on the door."
 
     ## Door knocking SFX
+    play sound doorKnock1
 
     "A minute goes by. Nothing. Maybe they didn’t hear me?"
 
     ## Door knocking SFX
+    play sound doorKnock1
 
     vivian "Hold on!"
 
@@ -608,6 +622,7 @@ label scene_103_label101:
     "I put it back and decided to see what her taste in music was like as well. An older style stereo was right on the kitchen counter so I decided to press play."
 
     ## Crappy heavy metal music starts to play.
+    play audio vivianMetal
     "My ears felt as though they were starting to bleed with how loud the music was. It frightened Void as I dropped him so I could cover my ears."
 
     vivian "Ah! Why did you do that?"
@@ -653,6 +668,7 @@ label scene_103_label103:
     "Being in my arms for as long as he has, Void started to get fussy again and jumped right out of my arms once again where he planted on one of her side tables."
 
     ##Crashing sound
+
 
     "When he landed, Void knocked over an extravagant looking box. Holding my breath in fear of it breaking, thankfully it didn’t. The only thing that came out though was this strange gold coin with a square hole cut out of it. "
 
@@ -976,6 +992,7 @@ label scene104_continued2:
     mory "Hehe. That’s fine. But no, the cat isn’t mine, dear."
 
     ## There’s a small pause with no dialogue box.
+    pause 1 
 
     mory "I assume you’re the new tenant. It's sad that you were told my name before I could introduce myself though hehe."
 
@@ -1111,6 +1128,7 @@ label scene104_continued2:
 
     "At least I didn’t screw it up this ti–"
     ## Sound: Door closing
+    play sound doorClosing
 
     "…"
     "I got startled by the door."
@@ -1125,6 +1143,7 @@ label scene104_continued2:
 
 label scene_105:
     ## [Anita is walking down a hallway]
+    play sound footstepsWood
 
     "Void doesn’t belong to Vivian or Mory. This is bad. Talking to two people was terrifying enough, much less two strangers that I have to live next to. How many more people do I have to make a fool of myself in front of until I meet Void’s owner?"
 
@@ -1172,12 +1191,14 @@ label scene105_label102:
     "Void shook off the tears that rolled off my cheeks and landed on his head. I didn’t even realize I was crying. My body was expressing emotions I didn’t want them to."
 
     ## Cat Growling SFX
+    play sound angryCat2
 
     "Making a few steps towards my front door, Void grew more tense while a low, guttural noise I haven’t heard him make rang through the halls. While this is going on, another kind of guttural was making its way to my ears."
 
     "Perhaps some pets will make him calm down. Or maybe it will help calm me down. "
 
     ##Gross Gargling SFX
+    play sound monsterGrowl
 
     "IT'S NOT HELPING! IT'S NOT HELPING! IT'S NOT HELPING! "
     "Out of the shadows down the hallway, an enormous human-esque gray beast glared at me and Void with hungry eyes and a wide mouth to match. "
@@ -1186,6 +1207,7 @@ label scene105_label102:
     "Running for my life as I have a death grip on Void, I arrived at Elly's front door. I nearly missed it in my state of utter fear. "
 
     ##Door pounding SFX
+    play sound doorPound
 
     "Pounding on her door, desperate for a safe haven, I only peeked over my shoulder to see as it trudged it's body stop by step closer to me and a now freaked out Void. "
 
@@ -1293,6 +1315,7 @@ label scene105_continues:
     elleanor "My heart goes out to those in need Anita."
 
     ## [SFX, kettle whistling]
+    play sound kettleWhistle
 
     elleanor "Ah! It sounds like the tea is ready. Please, wait just a moment."
 
@@ -1410,6 +1433,7 @@ label scene105_continues2:
     "I nibbled on the cookie that was already in my mouth. Yummy. As I brought the thermos to my mouth, there was a—"
 
     ## Cat Scratching SFX
+    play sound catScratchDoor
 
     anita "Void?"
     "I leave my seat for the door. Sure enough, Void is back, staring up at me from the other side of the door in a strangely familiar way that triggers a rush of deja vu."
@@ -1462,6 +1486,7 @@ label scene_106:
     "If they ever open the door. "
 
     ## [Door knocking SFX]
+    play sound doorKnock2
     "I took it upon myself to knock on the door to see if anyone is actually home. Taking a few more moments to wait patiently for the occupant to at least welcome their cat back inside. "
     "…"
     "…"
@@ -1471,6 +1496,7 @@ label scene_106:
     "I just hoped that Void’s owner didn't just abandon him to go live somewhere else. Or worse, kicked him out of his home to let him wander around and possibly d-"
 
     ## [Loud banging SFX]
+    
 
     anita "JESUS?!?!"
 
@@ -1499,6 +1525,7 @@ label scene_106:
     "Shuffling through them one by one, I struggle to find a specific goddamn key. My breathing paced with my thumping heartbeat. Grabbing for the last key on the ring, I inserted it into the lock to hear the most satisfying click of my life. "
 
     ## [Slamming door SFX]
+    
 
     "Once we were safe inside, I slammed the door behind me with an unintentionally loud thud. Now that all was quiet, the only sound I heard was the blood rushing to my ears and the click of locking my door. "
     "My legs gave up on me as I slid my back against the front door. Now, I was just wondering what the hell their problem was. All I wanted to do was give them their cat back. "
@@ -1511,7 +1538,7 @@ label scene_106:
     "Ho-"
 
     ## [Cat meow SFX]
-
+    play sound meow2
     void "Meow"
 
     "My eyes shot open the moment I heard that sweet little meow. Letting the air slip out of my lungs, I finally let Void out of my arms. "
@@ -1931,6 +1958,7 @@ label scene108_label101:
     elleanor "Oh it’s no bother at all. Anything to help my friends and neighbors."
 
     ## Multiple scanning SFX
+    play sound barcodeScan
 
     "I’m glad it saves me money and all but…why does it still make me feel pathetic?"
     "Like I can’t survive all on my own, even when I’m living alone?"
@@ -1952,6 +1980,7 @@ label scene108_label102:
     elleanor "I…really need the money."
 
     ## Multiple scanning SFX
+    play sound barcodeScan
     "While Elly was ringing up my haul, I still can’t get over how it looks like her feelings are hurt. I know she told me one thing but her expression is telling me another."
     "I really hope she doesn’t hate me for turning away her help."
     jump scene108_continued
@@ -1997,6 +2026,7 @@ label scene108_continued:
     anita "I don’t need to keep carrying you, do I?"
 
     ## Meowing SFX
+    play sound meow3 
 
     "As if on command, Void leaped gracefully out of the basket and right at my side. Didn’t try to wander off or anything. It's actually kind of amazing."
 
@@ -2006,6 +2036,7 @@ label scene108_continued:
     "Even pushing Elly’s bike into the elevator was a pain. I could barely fit myself in. The ride up was agony as the pressure of everything nearly caved in on me."
 
     ## Elevator ding SFX
+    play sound elevatorDing
     anita "Finally!"
 
 
@@ -2026,6 +2057,7 @@ label scene108_continued:
     "Prying open my door and locking it, my sights lined with Void's as she was trying to process what was wrong with me. My first instinct was to protect her so I kneeled to the ground to use my body as a shield. "
 
     ## Door pounding and scratching SFXs
+    play sound catScratchDoor
 
     ## Creature in creepy font
     "{font=fonts/Creepster-Regular.ttf}{size=*3}YoU cAN't EsCaPe!{/size}{/font}"
@@ -2055,6 +2087,7 @@ label scene108_continued:
     anita "But I won't let anything hurt you. I promise."
 
     ## Meowing SFX at the same time as the dialogue. 
+    play sound meow4
 
     void "Meow."
 
