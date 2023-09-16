@@ -668,7 +668,7 @@ label scene_103_label103:
     "Being in my arms for as long as he has, Void started to get fussy again and jumped right out of my arms once again where he planted on one of her side tables."
 
     ##Crashing sound
-
+    play audio loudBang
 
     "When he landed, Void knocked over an extravagant looking box. Holding my breath in fear of it breaking, thankfully it didn’t. The only thing that came out though was this strange gold coin with a square hole cut out of it. "
 
