@@ -1687,7 +1687,7 @@ label scene107_label101:
     call screen petVoid
 
     ## [Note: Void is on the screen. Pet him and you can continue]
-
+    
 
     "Cutie. Let’s find your owner. You can’t stay with me if you got someone else you love, right?"
 

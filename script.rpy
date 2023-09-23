@@ -30,8 +30,7 @@ define doctorh = Character("Dr. Hood", namebox_background=AlphaMask(Solid("#0088
 # The game starts here.
 
 label start:
-    #Temporary jump to petting Void
-    scene bg 
+    #Temporary jump to petting Void 
     menu: 
         "Pet void.": 
             call screen petVoid
