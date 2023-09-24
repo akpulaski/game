@@ -2109,4 +2109,4 @@ label scene108_continued:
 
     "Good night Void."
 
-    return
+    jump scene_201
