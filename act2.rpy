@@ -781,4 +781,74 @@ label scene_203:
     jump scene203_choices 
 
 label scene203_choices: 
+    menu: 
+        "Look at the plants.": 
 
+            jump scene203_label101
+
+        "Look at the fireplace.": 
+
+            jump scene203_label102
+        
+        "Look at the paintings.": 
+
+            jump scene203_label103
+
+        "Look out the window.": 
+
+            jump scene203_label104
+
+label scene203_label101: 
+    "The several different species of flora brightens up the already pleasant atmosphere. Shades of blues, pinks, and yellows can make anyone's day even a little bit better. Maybe this explains why he is always in such a good mood?"
+
+    "I would be too if this is what I woke up to everyday. It seems like a lot of work to keep them all so healthy and vibrant, but it's worth all the trouble to make oneself and others feel more at peace."
+
+    "I wish I could keep plants like these. Every plant I get ends up dying in a few weeks time."
+
+    "Maybe one day my green thumb will come in."
+
+    jump scene203_continues
+
+label scene203_label102: 
+    "I take a few steps closer to the gas fireplace. Which is unironically perfect to have during this time of year. Especially when the air outside is starting to get more chilly."
+
+    "I crouch down ever so slightly to extend my hands out like I am warming them over a campfire. In some ways, it feels nice and rustic. Even if it isn't a log cabin in the middle of the woods, the accomodations in here makes an apartment on the 3rd floor feel like one."
+
+    jump scene203_continues
+
+label scene203_label103: 
+    "I diverted my attention to the artwork over the fireplace. They all have their own little bits of personality to them. One is a simple painting of a small bundle of yellow flowers. Another one is a landscape picture of the coral reef. "
+
+    "The last one was of an abstract image of a group of cats playing what seems to be jazz music under the moonlight. It is initially a bit funny to look at. But the more I think about it, the more it does explain the type of person Mory is."
+
+    "Calm."
+
+    "He is indeed a cat person."
+
+    "But overall, just that he takes a slower approach to see things through to the end."
+
+    "Or that is at least how I interpret it."
+
+    "I wouldn't be surprised if I was wrong though."
+
+    jump scene203_continues
+
+label scene203_label104: 
+    "I pull back the beige curtains a tiny bit to take a look at the city in a brand new life at night. "
+
+    "The music thumping all across down, lights decorating the dark scenery, people my age partying their worries and cares away."
+
+    "It was almost nice to see if it wasn't also depressing."
+
+    "But as I keep staring through the window I could see everything is a bit... too dark outside."
+
+    "To ease my growing curiosity, my fingertips met the glass but I could feel there was something over the glass itself. Are these windows tinted?"
+
+    "Why would Mory have tinted windows? Maybe it might be a way to help the plants grow better inside."
+
+    "Or at least that’s how I want to see it."
+
+    jump scene203_continues
+
+label scene203_continues: 
+    
