@@ -851,4 +851,359 @@ label scene203_label104:
     jump scene203_continues
 
 label scene203_continues: 
+    "Mory came back gleefully with two cups of coffee, one in each hand. Sat down on the couch opposite to me, legs crossed and handed me the steaming mug."
+    
+    mory "There you go, ma’am. With a mountain of sugar, of course!"
+    
+    "Mory handed me a colored ceramic mug filled with a brew worthy of being sipped. It has the most pleasant aroma I’ve ever had a whiff of, even after working years in that shop."
+    
+    "I don’t think I would make something this great when I worked at the Sunrise Cafe for ten more years. Mory is, clearly, on a whole other level when it comes to brewing coffee."
+    
+    "I wish I had any amount of that skill."
+    
+    "And, no surprises, it tastes as good as it smells. How did he guess the amount of sugar that perfectly? It is absolutely INCREDIBLE."
+    
+    "I can taste notes of almonds and chocolate."
+    
+    "This man is as cozy as it gets. I need some insight into his skills."
+    
+    anita "This is absolutely incredible, Mory. I cannot BELIEVE coffee this good could exist!"
+    
+    "Before he seemed a bit weary or pensive, but as soon as my compliment got processed, he let out an amazing ear to ear smile. Cute."
+    
+    mory "Glad you like it!"
+    
+    mory "One day I wish to grow my own coffee beans, but it is a little out of scope for this apartment."
+    
+    anita "That’s such a wild dream. I hope you get around to it one day. That’s gonna be so cool. I will definitely be one of your regular customers."
+    
+    mory "Thanks. That’s great to hear."
+    
+    mory "For now I’m a little stuck in this apartment, but I have big dreams and a whole lot of ambition. You’re gonna have it for free!"
+    
+    anita "Your ambition to chase that dream is what matters!"
+    
+    "I wish I had a tenth of this much energy and determination. He’s so upbeat."
+    
+    "I don’t really know how it feels to be this good at a hobby."
+    
+    "If anything…I’ve forgotten what it’s like to have dreams. It seems like everything is a waking nightmare."
+
+    mory "How about you?"
+
+    anita "What about me?"
+    
+    mory "Any wild dreams?"
+
+    "Is he secretly a mind reader?"
+
+    anita "Oh... uh... I really want to become an artist. You know, draw stuff?"
+
+    mory "Awesome dream! I tried the same once, but didn’t really work out. I was {i}really{/i} bad."
+
+    anita "I used to be god awful! But I had a rough childhood and drawing was what kept me from being overwhelmed, so I guess I won through pure insistence."
+
+    mory "Oh. I’m sorry to hear that. You seem to be doing fine now, aren’t you?"
+
+    anita "Somewhat. I had a few tough years, but I’m feeling a lot better."
+
+    mory "I would love to see what you draw someday."
+
+    anita "Once I gain the confidence to, I’d like to show you."
+
+    "I do in fact feel better than how I used to, but today and yesterday were a little hard to wrap my head around. I’m not used to people treating me nicely."
+
+    "The only people who genuinely cared about me were a few school friends and co-workers. And they probably cared for me out of obligation. Maybe Allen did as well in the beginning."
+
+    "I don’t remember why I fell for him. But I still can’t get him out of my mind."
+
+    "Now I’m depressed again. Thank you, brain. At least Void seems to be having fun. She jumped on Mory’s lap and made herself very comfortable."
+
+    "Maybe another sip will make me feel better."
+
+    anita "No, Void! Get down! You’re gonna make him spill hot coffee on you!"
+
+    mory "Oh, it’s alright, Anita. He’s such a sweetheart!"
+
+    #SFX: Meow
+    play audio meow3
+
+    void "Meow."
+
+    anita "He’s a she actually. I only found out yesterday."
+
+    mory "’m so sorry sweet baby girl. You’re the prettiest little princess."
+
+    "Acting like she’s not offended at all, she curls herself up and purrs so loud I can hear it all the way over here. "
+
+    "Well, if Mory doesn’t mind, who am I to judge?"
+
+    "Void sat right up and is joyfully fidgeting on Mory’s legs while he drinks his coffee. I’m a little afraid, but I trust his careful demeanor."
+
+    "I’m a little jealous."
+
+    mory "She is the cutest celery…!"
+
+    anita "...Celery?"
+
+    mory "Oh. I just said the first thing that came to mind."
+
+    anita "She really is a cute… uhh… cassava?"
+
+    "This is hard! What in tarnation is a cassava?"
+
+    "He smiled and let out a giggle."
+
+    mory "I love cassava!"
+
+    anita "Say, what's cassava?"
+
+    mory "A South American root vegetable. I love it."
+
+    mory "I’m trying to grow some actually."
+
+    anita "I never had it. I only knew by name, and it sounds a little funny."
+
+    mory "You should try it! It is very.... stringy."
+
+    mory "..."
+
+    anita "..."
+
+    mory "I can tell you’re confused. We needed to address the elephant in the room."
+
+    "I completely forgot. The coffee and small talk was so good that the coin incident left my mind."
+
+    anita "Uhh… Yeah, about that."
+
+    mory "You see, that coin shows her something bad or trivial that is going to happen to her soon whenever she looks through the hole."
+
+    anita "…I’m still not sure if I believe her. I know she isn’t any kind of prankster, but…"
+
+    mory "Oh, I know right. I know it sounds crazy but that coin has some kind of magical power."
+
+    "I’m genuinely confused. Magical…?"
+
+    "What exactly does that mean?"
+
+    anita "You mean magical as in sorcery? Dark arts? Mystical?"
+
+    mory "Yup."
+
+    "Okay. I don’t think I have any other way of reacting to this appropriately. I stare at him for a few seconds before collecting my thoughts, leaning a little forward on the sofa and speaking my mind."
+
+    anita "That is..."
+
+    anita "SO COOL!"
+
+    mory "Yeah, I know it is pretty cool. Whenever she uses it, I get to hear all about it."
+
+    mory "She has all of them written down somewhere. After a while she tends to forget what she sees so she jots them down for later."
+
+    anita "Then why didn't she tell you this time? Does she use it often?"
+
+    mory "I don't know and that’s what’s making me really worried. This is the first time she didn't tell me anything. I’ve never seen her act so scared over it either."
+
+    mory "And no, she only uses it if she really needs to."
+
+    mory "Maybe this time she was drunk and didn’t like what she saw?"
+
+    anita "Maybe she saw something bad that is going to happen to you? Maybe that’s why she was so mad."
+
+    "Oh my god. He is blushing red like a damn tomato. I can’t tell if I made him uncomfortable or not."
+
+    "I am starting to think he may like Vivian. Aw, how cute."
+
+    mory "Oh… uh… I guess so…?"
+
+    anita "If she cares about you, something bad happening to you means the coin would show that, doesn’t it?"
+
+    mory "That makes… a lot of sense…when you put it like that. But I’m not really sure though."
+
+    anita "This may sound a little crazy asking but…do you have one as well? I feel like you do. C’mon."
+
+    mory "Oh, I do! But it's not a coin."
+
+    mory "I can show you."
+
+    "This rollercoaster isn’t ending anytime soon. He ALSO has a magical object?"
+
+    "I’m not sure if I should be scared or not. Maybe I’m just really naive. But my inner child is dying to know if magic is actually real."
+
+    "He puts his mug on the table to his side, picks up Void, puts her on the ground and walks to a closet next to where he was standing."
+
+    "He opens it up and reveals many new plants. At first I didn’t understand, but I quickly understood what was happening."
+
+    anita "Dude..."
+
+    anita "You actually deal weed!"
+
+    mory "Oh, no no, silly. It's not weed!"
+
+    "Oh. He’s right. They are different, looking like almost alien plants. On top of the closet there is a watering can, slightly rusty and ornate."
+
+    "I get up from my seat to get a closer view, hopping over. This childlike enthusiasm of mine must be getting on his nerves. But what can I do? This is awesome!"
+
+    "I just found out magic exists!"
+
+    "Well, I don’t think I should have said it is weed."
+
+    "The plants are labeled based on what seem like their properties, like /“Medicinal/” and /“Aromatic/”."
+
+    "Wait… did he use some of these plants in the coffee?"
+
+    "…Am I gonna die?"
+
+    anita "This one is labeled as aromatic. Did you use any of it for the coffee?"
+
+    mory "Oh no! They aren’t edible. Found out the hard way."
+
+    "That would have been really creepy. Feeding me a completely magical substance unbeknownst to me might be a crime."
+    
+    "Mory reaches for the can on top of the closet and shows it to me, asking me to hold. It is a little heavier than I was expecting, but it is beautiful. Normally watering cans are made from plastic or just normal metal. This is different."
+
+    "It feels very… warm. I can’t describe it in any other way, but it is not actually hot."
+
+    "I give it a good look around."
+
+    anita "Is this the object?"
+
+    mory "Yes. This closet is of plants I watered with it. It changes them, makes them grow a lot faster and gets them special properties. This one here for example is rosemary watered with the can."
+
+    "He pointed to a purple plant that forms a spiral with its body and has very thin leaves. It’s labeled as \“Medicinal\”."
+
+    anita "How do you know what they do at first sight?"
+
+    mory "I don’t, I have to test them."
+
+    anita "Isn’t that, like, dangerous? You may accidentally eat something you shouldn’t, again."
+
+    mory "It is, but I haven’t died yet, sooo… I don’t think it can make poisonous plants. They at worst tasted awful and I’ve only gotten sick twice."
+
+    anita "If you say so. But how did you even notice they had these properties?"
+
+    mory "I… Uhh… Let’s not tackle that for now."
+
+    "That was a little awkward. Why did I have to say that?"
+
+    "I give a good look again at the closet trying to see any new weird plants and see another watering can tucked on top of the closet."
+
+    anita "Is that Elly’s can?"
+
+    mory "It is! When I want to actually grow other plants that are not mystical, I use a normal can. Which I broke accidentally."
+
+    anita "How?"
+
+    mory "Slipped out of my hand while I was watering my balcony plants. Thankfully, it didn’t hit anyone."
+
+    "I don’t know why but the situation sounds funny. A lot more funny in my head than in his."
+
+    mory "Do you think Viv calmed down?"
+
+    anita "Hmm… I think so. It’s been a bit. Are you going to check on her?"
+
+    mory "I will. I know this sounds a little lazy of me, but can you give the can back to Elly for me? I’ll go out and actually buy one for myself later."
+
+    mory "I’ll go give Vivian a visit in the meantime, see if listening to her crappy music will make her feel better."
+
+    "He picked up Elly’s can from the top of the closet. I’ll do it, because I want to thank Elly for what she did yesterday."
+
+    anita "Leave to me, Mory. You’re a sweetheart. I’m sure Vivian thinks so as well."
+
+    "There I go running my mouth again."
+
+    mory "Hahah… Thank you." 
+
+    mory "Here you go, and thank you again"
+
+    "He gave me the watering can. I’m gonna hold Void’s leash instead of carrying both. At Least she’s good about being on a leash and following my lead. What a well trained cat."
+
+    "I like Mory a lot. Such a receptive gentleman. Vivian got great luck for having him as a neighbor. I hope he stays friends with me as well, and feels nice getting treated well."
+
+    "Don’t you think, Void? You do, don’t you, sweetie?"
+
+    #SFX: Meowing
+    play audio meow2
+
+    void "Meow."
+
+    anita "Stop reading my mind. That’s rude."
+
+    "Let’s get this to Elly and give her a warm hug for what she did yesterday!"
+
+    jump scene_204 
+
+label scene_204: 
+    "Mory holds the door open for me as I exit his apartment. The engulfing feeling of worry for Vivian's health still weighing on me. I can tell by the look on Mory's face that he feels the exact same way. "
+
+    "Before leaving, I turn to face him with the reassurance I know he needs."
+    
+    anita "Vivian is a strong person. I'm sure she will get better in no time."
+
+    mory "Yeah. You're right about that. But to stop worrying about a friend is easier said than done sometimes, you know?"
+
+    anita "I totally get what you mean."
+
+    mory "I just hope all goes well for you guys too."
+
+    anita "You too, Mory. I'll see you around. "
+
+    mory "See ya later, Anita."
+
+    mory "You too, little one."
+
+    anita "Heh, say bye, Void."
+
+    scene hallway bg
+
+    "With the little girl in my arms, I take one of her front paws and move it up and down to try and be silly. It made him chuckle a little. "
+
+    "Mory wave to me and Void before we go our separate ways. I can hear the gentle knocking on Vivian’s door. Within a matter of a few seconds, I’m all alone again. "
+
+    "But at least I won’t be alone for too long. I still need to give this watering can back to Elleanor for Mory. WIth my mission on my mind, I put Void bank down and walk towards Elleanor’s door to give it a gentle knock. "
+
+    show ellyRoom bg
+
+    elleanor "Anita!"
+
+    "It didn't take long for Elleanor to answer the door. Once she knew I was standing in front of her, a warm and gentle smile adorned her face. Which is a bit of a shock to me to see her be so energetic. I know if I had a late shift, I would not be so keen on having guests the next day. "
+
+    "I guess Elleanor and I are just built differently. "
+
+    elleanor "It's so nice to see you again, sweetie. What brings you back to my humble abode?"
+
+    anita "Well, Mory wanted to bring this back to you. But he got sidetracked by taking care of Vivian while she's sick. So, he asked me to bring this to you instead while it was still on his mind."
+
+    anita "Sooooo..."
+    
+    anita "Here you go."
+
+    "I hold the watering can straight in front of me, waiting for Elleanor to take it. She gently took it from my hands with an appreciative smile on her face. "
+
+    elleanor "Thank you, dear. Been a while since I saw this bad boy. Now I can finally throw out that old milk jug!"
+
+    anita "You're welcome!"
+
+    anita "..."
+
+    anita "I guess I should really get out of your hair then. I'll see you later, Elleanor."
+
+    "You don't need to rush yourself out. I was actually going to offer if you would like some tea or coffee while you are here. "
+
+    "It's the least I can do after you just returned what belongs to me. "
+
+    "I stand in front of Elleanor's front door in silence for a brief moment. Looking down at Void right by my feet to see what she thinks. But like most of the time anyway, she looks completely indifferent about the awkward tension as she stares directly at me. "
+
+    anita "I guess it would be alright if I stay a while. If you don't mind, of course. "
+
+    elleanor "Like I said the other day, I wouldn't have offered my time if I didn't have it. "
+
+    anita "I really appreciate it. Especially since I would think you would be catching up on sleep after your late shift last night."
+
+    elleanor "Oh, don't worry about me. I'm not tired at all. "
+
+    elleanor "I know it's a terrible habit, but it's a regular routine for me. I take the late shifts often. So, I have gotten used to not relying on a full night's sleep for quite a while now. "
+
+    elleanor "But enough about me. Come in. My offer still stands for tea or coffee if you would like."
+
     
