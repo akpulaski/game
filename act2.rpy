@@ -2470,4 +2470,374 @@ label scene_208:
 
     vivian "Sorry."
 
+    anita "Vivian, that wasn't very nice…"
+
+    vivian "I know, I know…"    
+
+    elleanor "I know you’re stressed, but that was uncharacteristic of you, even knowing that you hate me."
+
+    mory "Look, I know both of you aren’t on good speaking terms but we need to cooperate. Both of you are in this together, with us."
+
+    anita "Mory’s right. W-we can’t separate ourselves right now."
+
+    "Even though my knees are now quivering, I need to probe this matter further. I can’t leave this floating free in the air, not now. Why do they hate each other?"
+
+    anita "W-why exactly do you hate Elly?"
+
+    vivian "Do we REALLY need to talk about this right now?"
+
+    anita "Oh… uh… no. I don’t want to make you un-"
+
+    elleanor "I’m curious as well, you never were the most kind to me in my presence. I’ve done nothing to earn your scorn."
+
+    vivian "Fine! If you wanna know so badly…Whenever I use the coin and you’re in it, I get some very bad vibes from you."
+
+    elleanor "What do you mean by  \"bad vibes\"?"
+
+    vivian "I don’t know, but they are BAD. I don’t think you’re the murderer, I’m pretty sure it’s someone else apart from us, it’s just the terrible vibes I get from you."
+
+    vivian "I know it doesn’t make sense and you don’t need to believe me. But there you go."
+
+    elleanor "That’s… not a very compelling reason to hate me."
+
+    vivian "You asked why and I gave it to you."
+
+    "I’m not sure if I agree that’s a weak reason. The coin is magical and it does show the future after all, so it is somewhat accura–"
+
+    "Does this mean I’m actually getting murdered?!"
+
+    anita "Now, h-hold on! We have other stuff to take care of. If the coin is right, my life is on the line here!"
+
+    mory "She’s right, we can’t afford to let this distract us. There's more pressing matters."
+
+    vivian "Yeah. I don’t think I’m entirely sure about this, but…"
+
+    "Vivian strolls over to Elly again and extends her hand to offer a handshake, seemingly to make peace."
+
+    vivian "Sorry, Elly."
+
+    "Elly gazes at Vivian’s hand for a little bit before firmly grasping it and shaking her hand."
+
+    elleanor "Apologies accepted. We are one now. If you demand to split up, I’ll abide by it."
+
+    elleanor "I also apologize over my doubts, the white beast that visited took a high toll on my mental health."
+
+    vivian "It’s fine. I got you."
+
+    mory "Cool, we’re together in this again! Proud of you both."
+
+    anita "Vivian… now tell us what you saw in the coin. Please. You’ve delayed this long enough."
+
+    "To be honest, I’d feel better if I never knew I was going to get murdered. Ignorance is bliss, after all. But now that I know, I have to ask."
+
+    vivian "The coin showed me…"
+
+    vivian "You shackled to the wall somewhere I can't identify. There's only a candle."
+
+    vivian "Then, some figure comes in, and…"
+
+    vivian "They…"
+
+    "Vivian starts holding herself back, like she was about to gag on the mere remembrance of the vision."
+
+    vivian "Gouged your eyes out…"
+
+    vivian "What that thing started talking about wanting your eyes, I knew they had to be connected somehow…"
+
+    "Void jumps out of my hold as I let out a clear gasp in disbelief as my hands instinctively covered my mouth. Who in the world could possibly want to do this to me, and why? My knee caps finally gave in. What could possibly be so important about my eyes?"
+
+    vivian "After they were done… doing that… they unshackled you. Your body fell to the ground, and from the corner of the room, some kind of demon came in and…"
+
+    vivian "Dragged your body into the dark. That’s all I saw."
+
+    mory "No way… who could possibly do such a thing? And what would be their motivation? What's with gouging the eyes?"
+
+    elleanor "Why…? Who else aside from the demons is in here with us?"
+
+    vivian "I don’t know, I couldn’t get a clear view of them. "
+
+    anita "I… can’t believe this…"
+
+    "I could feel myself start to tear up. Void tried rubbing her head against me as if she was attempting to comfort me. It's helping a little bit."
+
+    vivian "Anita. There’s a way we can fix this. I managed to avert the coin’s fate once before. If we’re smart about this, I think we can work together to do this again."
+
+    elleanor "What did you do? What was the situation?"
+
+    vivian "I… uh… Okay, this is gonna sound super stupid, but the coin once let me know I would be eating beets for lunch later."
+
+    vivian "I avoided everything beet related until the coin showed something else."
+
+    mory "Classic Vivian."
+
+    vivian "Not important right now?!"
+
+    elleanor "Very trivial but it’s no murder. How do you think we can accomplish that? Look at poor Anita. Girl must be completely in shock and I don’t blame her."
+
+    vivian "It doesn’t mean we shouldn’t give it a shot. I know it wasn't anything serious, but if I managed to do it once, we can work together and do it again."
+
+    vivian "After this, though, I don’t think we should split up anymore. Let’s stay together and look for something that will get us out."
+
+    #SFX: cat meowing 
+    play sound meow3
+
+    void "Meow."
+
+    vivian "What’s up, Void?"
+
+    "I look over my shoulder, almost not being able to distinguish Void from the dark hallway from my blurry vision as my eyes are full of tears."
+
+    "Void seems to be looking down the hallway and meowing at us. Does she want us to follow her? Mory takes a step closer and Void moves a little further down the hallway."
+
+    mory "You want us to follow you, buddy?"
+
+    anita "D-do you think she’ll lead us somewhere important?"
+
+    mory "Well, we are out of options here, and she seems really determined to get us to follow her…"
+
+    mory "Can you stand, Anita?"
+
+    anita "I can try…"
+
+    "Vivian walks over to help me stand. She doesn't say a word while giving me aid, but I do feel through her regret for not telling me anything."
+
+    anita "L-let’s follow Void."
+
+    vivian "I’ll stand by you, just in case. I got this bad boy to protect you. No one will be touching you."
+
+    "She points to the intimidating metal bat. She recovered so fast from that…"
+
+    "I envy her a little bit."
+
+    anita "Thank you Vivian."
+
+    elleanor "Lead the way, little one."
+
+    jump scene_209
+
+label scene_209: 
+    "As all of us creep our way down these eerie halls, one idea will not stop plaguing my mind."
+
+    "Even though we’ve stormed all of the rooms on this floor, it’s beyond strange how only the four of us seem to have remained during a sudden rain storm."
+
+    "Wherever everyone is out there…please be safe."
+
+    mory "Hey before we do anything, I feel like I need to say something that’s been on my mind."
+
+    mory "What do you think those things mean by the ‘demon ward?’ Like an assistant or something?"
+
+    elleanor "It could also be a means to deter evil spirits away. I believe that would make more sense in that context. "
+
+    vivian "Even so, what the hell could this ‘demon ward’ even be? My coin has nothing to do with demonic stuff."
+
+    mory "Neither does my watering can. I’m lost on what it could mean. "
+
+    anita "From how that creature was acting I could have a few guesses. We may even have a concrete answer down this way."
+
+    "As we all pace our way down the hallway, a familiar moldy musk overtakes all of our senses. Somehow the smell was overtaking the entire floor now. "
+
+    vivian "God it fucking stinks! I knew Mr. Lamor was a penny pincher but never to this extent."
+
+    elleanor "Where on earth could it be coming from?"
+
+    anita "…I think I know where."
+
+    "Making my way in front of Vivian, I guide the rest of the group to the source."
+
+    "Tom’s apartment."
+
+    "Here we all are. Standing in front of the place that has been causing us so much confusion and curiosity. A pit of dread is welling up inside of me but…what else can be done?"
+
+    "We need answers in order to get out of here and if we need to enter his room without permission then I suppose we have no other choice."
+
+    "Please forgive us Tom."
+
+    "The closer we came to Tom’s door, a pungent odor progressively became more noticeable. The best way to describe this smell was like that of musty rotten food. I can even notice how Elleanor and Mory notice the strong smell from behind this door. "
+
+    "As much as Vivian tried her best to keep a straight face, even she couldn't help herself by hiding her nose underneath her blazer. The quicker we are all out of here, the better. I have no idea how much longer we can all take this stench."
+
+    "I try to jiggle the door knob. Locked. Looking down though, Void is still scratching at the door the same way I saw her before. Why did you do this to her Tom? She clearly loves you."
+
+    "After seeing all this though, I don’t know if I feel safe with her in your possession anymore."
+
+    mory "Does… does anyone know what these mean?"
+
+    vivian "Not this second but I do know is this door is gonna open up one way or another. Sorry for your security deposit Tom."
+
+    "Before she could bash in the door, Mory grabs the bat while she is in mid-swing. "
+
+    mory "Actually, do you mind if I take a go at it?"
+
+    vivian "You? You’re okay with committing what is pretty much a crime?"
+
+    mory "I’ll do anything to help my friends. Even petty crime."
+
+    vivian "If you insist. Have at it. "
+
+    #SFX bat on door x 3
+    play sound batHit loop 
     
+    "Tossing the bat over to Mory, he readies himself and starts wailing on the lock. I knew he was a bigger guy but I had no idea he was this muscular. It looks like all three of us are amazed by this display."
+
+    #SFX: metal dropping to the wood flower 
+    stop sound fadeout 0.5
+
+    "After repetitive heavy blows to the door, its knob finally pops off. Mory seems a tad bit winded but other than that acts like nothing happened."
+
+    vivian "Jesus Christ, I didn’t know you had it in you. "
+
+    mory "Well uh, anything can get done with a lot of effort and a bit of elbow grease."
+
+    vivian "Either way, nice job my man."
+
+    #SFX: door creaking 
+    play sound creakingDoor
+    "Vivian gives him a squeeze on the shoulder as she pushes the door open to make our way in. As I follow in behind her, I notice how Mory’s cheeks have now become flush. I’ll keep that one to myself though."
+
+    "Once inside though…god the smell made me ill. That musty odor became unbearably worse the moment we stepped into his living room. There was not a single person in this room that wasn’t left gagging. It took all my mental strength to not get sick right then and there. "
+
+    "Each turn I take, there are new patches of mold in every crevice. That may explain the putrid smell, but I never thought the smell of mold would be this unforgiving to the senses. I swallowed the bile in my mouth to get out of here as quickly as possible with my dignity intact. "
+
+    "It was hard to tell where the furniture had been placed. All along the windows are caked in mold. It gave the room a sickening blue undertone."
+
+    "But in the center of the living room is what looks like a ritual circle with a giant pentagram drawn on the floor and candles burnt down to the nub. The smell of the candle mixed in with the mold is probably what's making it worse. "
+
+    "Books of all studies of the occult are scattered across the floor, nearly making it hard to get around. Some of them are smeared in blood."
+
+    "What sends shivers down my spine more than anything else in this place is all the chains and pumpkins littering the floor and dried blood spots in different places. "
+
+    "What kind of man is Tom… "
+
+    "I clench Void tighter out of fear and sorrow for all she must have been through with this monster. It’s a miracle that she’s even alive."
+
+    mory "Oh… my god…"
+
+    elleanor "Oh dear heavens… To think of all that must have gone on in here."
+
+    vivian "Man if this all wasn’t so creepy, I would say he has the collection of my dreams. "
+
+    elleanor "Oh could you please focus? We’re in a possible murder den and you’re jealous of a potential killer!"
+
+    vivian "Hey, I’m well aware that this is totally fucked up. I’m just saying he has good taste in reading material. "
+
+    vivian "Hey, do you think he dips the different body parts in acid to get rid of the evidence?"
+
+    elleanor "Ugh, how vile!"
+
+    vivian "Hahaha!"
+
+    "Her attempt at grossing out Elleanor is having a more profound effect on me."
+
+    mory "Stop it. We kind of have more pressing issues here. "
+
+    mory "The blood is dry…this might be a crazy theory but you don’t think he…killed someone, fled the scene and left everything behind, do you?"
+
+    anita "I…hope that isn’t the case. That would be horrible!"
+
+    vivian "But it sounds likely. If Tom killed someone there has to be a victim somewhere."
+
+    elleanor "I mean unless he dragged the body out somewhere and did whatever he could to dispose of it."
+
+    elleanor "But I would be more concerned about that if I were you."
+
+    "Elly swiftly points to the back wall that is covered in what could be more described as scribbles than an actually cohesive language. "
+
+    elleanor "From the little bit I can understand it has something to do with… demons?"
+
+    elleanor "I can’t say I’m too shocked by everything displayed. "
+
+    mory "Hey, take a look at what I found. "
+
+    "Our attention diverts straight to Mory as he is surveying the altar towards the back of this tiny room. In his hands was a tiny, black notebook with no identifiable traits about it. Not even a name inside of it. "
+
+    "Its contents were written in a way that they were thinking faster than they could put to paper. Barely legible. What could be translated though has to do with different spells and rituals for the dark arts and summoning demons. "
+
+    "Odd that some of the pages were torn out. "
+
+    "The very last page though read ‘They’ll never find me.’"
+
+    elleanor "Sounds like a clear confession to a crime to me."
+
+    anita "I…I don’t want to think Void’s owner is a murderer."
+
+    vivian "Well even if it is a confession, it doesn't mean we can’t look around. Come on."
+
+    "Given clear instructions to search for… I guess anything really, everyone else went in several directions while I’m still frozen in place."
+
+    "This place is literally the stuff of nightmares. To think I was living right next door to all of this. How could I have been this oblivious? "
+
+    "Well…I think it’s a little too late to turn back now.  So I better start somewhere…"
+
+    "Making my way through the maze of occult memorabilia, I lost my grip of Void for a second where she took the opportunity to hop out of my arms again."
+
+    anita "No! Void! Come back here, it’s not safe for you!"
+
+    "Ignoring my cries completely, Void saunters her way into one of the back rooms. "
+
+    "I am convinced now that this cat is trying to kill me. "
+
+    "But looking out for her safety is more important than mine, so I pursue her in order to look out for her. "
+
+    "I enter what looks like a very plain bedroom. Only the essentials were in here; A bed set, dresser, and a side table with a lamp resting on top. There wasn’t even a decoration to be seen in here. A vast difference from what’s out in the living room."
+
+    "The most prevalent thing I notice about this room is the smell. I thought the smell across the rest of the apartment was horrid but here it was outright putrid. I have to step outside for a minute to cough. It is literally attacking my senses. It's taking every ounce of willpower not to get sick right now."
+
+    anita "Void? Void where did you go?"
+
+    #SFX: Cat scratching 
+    play sound catScratchDoor
+
+    anita "Hm?"
+
+    "I can now easily find her as I follow the scratching under the bed. She was relentless at it which makes me curious about what’s so interesting underneath. "
+
+    anita "H-hey guys! I think there’s something back here!"
+
+    "It didn’t take long for all three of them to come to my aid."
+
+    mory "What’s wrong? Where’s Void?"
+
+    anita "I’ll uh… I’ll let you guess."
+
+    "As much as I want to give the others a hint to where Void was, I need to take it upon myself to get her out of there. I stretch my arm out underneath the bed as far as I can reach to grab her. But she is just barely outside of arm’s length. I sat back up with a sigh as I saw a hand being offered to me. "
+
+    mory "May I help you with what?"
+
+    "I chuckle a bit to myself as I take Mory’s hand to assist me back up. With that aside, he grabs the foot of the bed and moves it to the adjacent wall. Not once did Void move a single muscle from where she was sitting when I tried to reach out for her. Now that I have my chance, I scoop her up right back into my arms. "
+
+    anita "There you are, you bad little kitt-"
+
+    #SFX: creaking floor 
+    play sound creakingFloor
+
+    "One of the floorboards I stepped on made an audible creaking noise once my foot made contact with it. I looked down at my feet to see if there were any abnormalities with the spot I stepped on in particular. "
+
+    elleanor "Is something the matter, Anita?"
+
+    anita "Color me crazy, but…can someone see if this board moves? It feels like this space right here is hollow underneath. "
+
+    mory "Don't worry, I'll take a look. Just give me a sec"
+
+    "Leaving for only a moment, he returns with a small crowbar. Using all of his strength, Mory was able to pry up the floor board with what seems like a small amount of effort. "
+
+    "Although now…I wish he didn't. "
+
+    "Underneath was a sight that is going to forever haunt all of us. Laying before us is a decomposing corpse that still looks somewhat recognizable. What's worse is that their expression looks like they were in pain. "
+
+    "The air suddenly feels colder as all three stare unblinkingly at the body. My heart is racing when the realization hits me that we've stumbled upon a real murder scene. "
+
+    vivian "Hey, what's going on back there? "
+
+    "None of us could say a single word. They refuse to come out of fear that opening our mouths would lead to a scream. But we could hear the clanking of her metal boots as she drew closer to the scene."
+
+    vivian "Oh nice, now you guys are going to-"
+
+    vivian "..."
+
+    vivian "Holy... shit..."
+
+    elleanor "Who…is this?"
+
+    mory "That's... was Tom."
+
+    return    
