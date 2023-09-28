@@ -16,6 +16,7 @@
 default vivian_name = "???"
 default mory_name = "???"
 default elleanor_name = "???"
+default astaroth = "???"
 
 define anita = Character("Anita", namebox_background=AlphaMask(Solid("#ca1f7b"), "gui/namebox.png"))
 define mory = Character("[mory_name]", namebox_background=AlphaMask(Solid("#4F7942"), "gui/namebox.png"))
@@ -27,7 +28,7 @@ define allen = Character("Allen", namebox_background=AlphaMask(Solid("#0088A3"),
 define lamlor = Character("Mr.Lamlor", namebox_background=AlphaMask(Solid("#0088A3"), "gui/namebox.png"))
 define receptionist = Character("Receptionist", namebox_background=AlphaMask(Solid("#0088A3"), "gui/namebox.png"))
 define doctorh = Character("Dr. Hood", namebox_background=AlphaMask(Solid("#0088A3"), "gui/namebox.png"))
-define question = Character("????", namebox_background=AlphaMask(Solid("#0088F2"), "gui/namebox.png"))
+define astaroth = Character("[astaroth_name]", namebox_background=AlphaMask(Solid("#0088F2"), "gui/namebox.png"))
 define mom = Character("Mom", namebox_background=AlphaMask(Solid("#008080"), "gui/namebox.png"))
 define young = Character("Young Anita", namebox_background=AlphaMask(Solid("008080"), "gui/namebox.png"))
 define dad = Character("Dad", namebox_background=AlphaMask(Solid("#008080"), "gui/namebox.png" ))
